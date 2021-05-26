@@ -78,7 +78,7 @@ li{
 }
 }
 section{
-  height: calc(100vh - 80px);
+  height: auto;
   margin-top: 1px;
   text-align: center;
   margin-top: 150px;
@@ -94,5 +94,5 @@ padding: 5px 10px;
   background: white;
 }
 body{
-  background-image: linear-gradient(to right bottom,#60A5FA,#A78BFA);
+  background:#BFDBFE;
 }
